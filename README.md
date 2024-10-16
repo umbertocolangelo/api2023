@@ -1,7 +1,5 @@
 ## Progetto API (Algoritmi e Principi dell'Informatica) 2023
 
-## Project Overview
-
 This project implements a word comparison game similar to **Wordle**. The program efficiently manages and compares words using a red-black tree data structure. It takes user input for a reference word and a set of guessed words, processes them according to the game rules, and outputs the results.
 
 ## Key Components of the Project
