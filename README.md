@@ -23,9 +23,6 @@ This project implements a word comparison game similar to **Wordle**. The progra
 ### 5. Memory Management
 - The program dynamically allocates memory for nodes and ensures proper deallocation in the `free_space_game` function, which recursively frees all nodes in the tree.
 
-### 6. Game Logic
-- The `main` function orchestrates the game, handling user inputs and controlling the flow, including starting new games, inserting words, and filtering based on the player's guesses.
-
 ## Code Summary
 
 Here’s a summarized explanation of some key functions in the code:
@@ -41,11 +38,3 @@ Here’s a summarized explanation of some key functions in the code:
 
 - The use of a red-black tree ensures that insertion, deletion, and search operations remain efficient with O(log n) time complexity.
 - The filtering functions are designed to minimize the number of words retained in the game, enhancing performance by reducing the search space.
-
-## How to Build
-
-To build the project, ensure you have a C compiler and CMake installed on your system.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/umberto/api2023
