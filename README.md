@@ -1,6 +1,10 @@
 ## Progetto API (Algoritmi e Principi dell'Informatica) 2023
 
-This project implements a word comparison game similar to **Wordle**. The program efficiently manages and compares words using a red-black tree data structure. It takes user input for a reference word and a set of guessed words, processes them according to the game rules, and outputs the results.
+This project implements a word comparison game similar to **Wordle**. The program efficiently manages and compares words using a red-black tree data structure. It takes user input for a reference word and a set of guessed words, processes them according to the game rules, and outputs the results. Developed as part of the course Algoritmi e Principi dell'Informatica at Politecnico di Milano.
+
+Professor: Alessandro Barenghi
+
+Grade: 30/30
 
 ## Key Components of the Project
 
